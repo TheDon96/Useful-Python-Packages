@@ -8,7 +8,7 @@
 - [Pandas](https://pandas.pydata.org/): fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
 
 ### PDF Data
-- [Tabula-py](https://github.com/chezou/tabula-py): [Extract tables from PDF files]("https://towardsdatascience.com/how-to-extract-tables-from-pdf-using-python-pandas-and-tabula-py-c65e43bd754" "Tutorial on how to use tabula-py).
+- [Tabula-py](https://github.com/chezou/tabula-py): [Extract tables from PDF files](https://towardsdatascience.com/how-to-extract-tables-from-pdf-using-python-pandas-and-tabula-py-c65e43bd754 "Tutorial on how to use tabula-py").
 
 ### Twitter Data
 - [Tweepy](https://github.com/tweepy/tweepy): Tool for using the Twitter API. 
